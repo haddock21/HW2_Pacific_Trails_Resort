@@ -27,22 +27,16 @@ h1 {
 	margin: 0;
 	padding: 10px;
 }
+h2 {
+	color: #3399CC;
+}
+h1, h2 {
+	font-family: Georgia, "Times New Roman", serif;
+}
 nav{
 	background-color: #90C8E3;
 	width: 200px;
 	grid-row: 2/4;
-}
-#content{
-	padding: 0px 25px;
-	color: #737373;
-}
-#content img{
-	float: left;
-	padding-right: 25px;
-}
-#content ul{
-	list-style-image: url(../images/marker.gif);
-	list-style-position: inside;
 }
 nav ul {
 	font-size: 1.3em;
@@ -57,18 +51,24 @@ nav a{
 nav a:hover {
 	color: #FFFFFF;
 }
-span{
-	color:#1073a5;
-	font-weight: bold;
+#content{
+	padding: 0px 25px;
+	color: #737373;
 }
-h2 {
-	color: #3399CC;
+#content img{
+	float: left;
+	padding-right: 25px;
 }
-h1, h2 {
-	font-family: Georgia, "Times New Roman", serif;
+#content ul{
+	list-style-image: url(../images/marker.gif);
+	list-style-position: inside;
 }
 #contact {
 	font-size: 90%;
+}
+span{
+	color:#1073a5;
+	font-weight: bold;
 }
 dt {
 	color: #000033;
