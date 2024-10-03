@@ -1,3 +1,12 @@
+/*
+	File: pacific.css 
+	GUI Assignment:  Style a Site with External CSS  
+	Nikolas Haddock, UMass Lowell Computer Science, 
+	nikolas_haddock@studentt.uml.edu 
+	Copyright (c) 2024 by Nikolas Haddock.  All rights reserved.
+	This is an external css file that styles an HTML file in 
+	accordance to the images given with the assignment 
+*/
 header, hgroup, nav, footer, figure, figcaption, aside, section, article {
 	display: block;
 }
